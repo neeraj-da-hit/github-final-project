@@ -4,7 +4,7 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Neeraj-da-hit(IBM)
+   # Author: Neeraj-da-hit
    # Additional Authors:
    # <Neeraj-da-hit>
 
